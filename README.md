@@ -7,7 +7,7 @@ class Program
     static void Main(string[] args)
     {
         // Greet the user
-        Console.WriteLine("Hello! What's your name?");
+        Console.WriteLine("Hello! What's your job?");
         
         // Read the user input
         string userName = Console.ReadLine();
