@@ -32,7 +32,7 @@ class Program
         }
 
         // End of program message
-        Console.WriteLine("Press any key to exit.");
+        Console.WriteLine("Press enter to exit.");
         Console.ReadKey(); // Wait for the user to press a key before closing
     }
 }
